@@ -42,7 +42,7 @@ export default function BigBlockGabe() {
                         ) :
                         (
                             <div>
-                                I received an internship with Accenture and I have one year of experiecne working in the Mechanical Engineering
+                                I received an internship with Accenture and I have one year of experience with sales and team management. I am excited to help develop your sales skills if needed
                             </div>
                         )}
                         
